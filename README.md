@@ -33,7 +33,7 @@ The primary aim of this project is to provide a user-friendly and efficient note
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-notes-taking-app.git
+   git clone https://github.com/Iamvishant01/Notesapp-using-java-swing.git
 2. Navigate to the project directory
    ```bash
    cd java-notes-taking-app
